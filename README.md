@@ -62,4 +62,5 @@
 ## Pembagian IP
 ![pembagian](img/CIDR/pembagian.png)
 
-## Routing
+## Testing
+![route](img/CIDR/route.jpeg)
