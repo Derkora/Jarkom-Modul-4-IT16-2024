@@ -10,7 +10,11 @@
 ![rute](img/rute.png)
 
 ## Topologi GNS VLSM
+### PEMBAGIAN IP VLSM
+![IP](img/VLSM/IP_VLSM.png)
 
+### TREE VLSM
+![Tree](img/VLSM/tree.png)
 
 
 ## Topologi CPT CIDR
